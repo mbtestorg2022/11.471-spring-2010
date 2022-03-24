@@ -50,9 +50,9 @@ The context: the state and economic development
 {{< tdopen >}}
 
 
-Evans, Peter. "The Eclipse of the State? Reflections on Stateness in an Era of Globalization." _World Politics_ 50 (1997): 62-87. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.3MB](http://www.columbia.edu/itc/sipa/S6800/courseworks/world_pol_evans.pdf))
+Evans, Peter. "The Eclipse of the State? Reflections on Stateness in an Era of Globalization." _World Politics_ 50 (1997): 62-87. ([PDF - 5.3MB](http://www.columbia.edu/itc/sipa/S6800/courseworks/world_pol_evans.pdf))
 
-Bruton, Henry. "A Reconsideration of Import Substitution." _Journal of Economic Literature_ 36 (1998): 903-936. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.jstor.org/stable/2565125))
+Bruton, Henry. "A Reconsideration of Import Substitution." _Journal of Economic Literature_ 36 (1998): 903-936. ([PDF](http://www.jstor.org/stable/2565125))
 
 Bardhan, Pranab. "[What Makes a Miracle? Some Myths about the Rise of China and India](http://www.bostonreview.net/pranab-bardhan-what-makes-a-miracle-rise-of-india-and-china)." _Boston Review_, January / February, 2008.
 
@@ -202,7 +202,7 @@ Bunker, Stephan. "Collaboration, Competition, and Corruption in Colonization Pro
 
 ### Recommended
 
-Tendler, Judith. "What Happens in an Agrarian Reform." Inter-Country Examinations of Small Farmer Organizations-Honduras. Prepared for the Office of Development Programs of the Latin American Bureau of A.I.D. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4MB]({{< baseurl >}}/resources/mit11_471s10_agrarian))
+Tendler, Judith. "What Happens in an Agrarian Reform." Inter-Country Examinations of Small Farmer Organizations-Honduras. Prepared for the Office of Development Programs of the Latin American Bureau of A.I.D. ([PDF - 3.4MB]({{< baseurl >}}/resources/mit11_471s10_agrarian))
 
 
 {{< tdclose >}}
@@ -242,7 +242,7 @@ Labor inspectors
 
 Pfeffer, Jeffrey. "[Human Resources from an Organizational Behavior Perspective: Some Paradoxes](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.4.115)." _Journal of Economic Perspectives_ 21, no. 4 (2007): 115-134.
 
-Pires, Roberto. "Promoting Sustainable Compliance: Styles of Labour Inspection and Compliance Outcomes in Brazil." _International Labour Review_ 147, no. 2-3, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/227715928_Promoting_Sustainable_Compliance_Styles_of_Labour_Inspection_and_Compliance_Outcomes_in_Brazil))
+Pires, Roberto. "Promoting Sustainable Compliance: Styles of Labour Inspection and Compliance Outcomes in Brazil." _International Labour Review_ 147, no. 2-3, 2008. ([PDF](https://www.researchgate.net/publication/227715928_Promoting_Sustainable_Compliance_Styles_of_Labour_Inspection_and_Compliance_Outcomes_in_Brazil))
 
 ### Recommended
 
@@ -300,7 +300,7 @@ The "newly-discovered" rural economy
 
 Haggblade, Steven, Peter Hazell, and Thomas Reardon. "Research Perspectives and Prospectives on the Rural Nonfarm Economy." Chapter 16, including the table "Common Myths About the Rural Nonfarm Economy (RNFE)." In _Transforming the Rural Nonfarm Economy: Opportunities and Threats in the Developing World_. Baltimore, MD: Johns Hopkins University Press, 2007. ISBN: 9780801886645.
 
-Eicher, Carl. "Flashback: Fifty Years of Donor Aid to African Agriculture." In _Successes in African Agriculture: Building for the Future_. Edited by Steve Haggblade, et al. Baltimore, MD: Johns Hopkins University Press, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://rmportal.net/framelib/donor-aid-to-african-agriculture.pdf))
+Eicher, Carl. "Flashback: Fifty Years of Donor Aid to African Agriculture." In _Successes in African Agriculture: Building for the Future_. Edited by Steve Haggblade, et al. Baltimore, MD: Johns Hopkins University Press, 2006. ([PDF](https://rmportal.net/framelib/donor-aid-to-african-agriculture.pdf))
 
 ### Recommended
 
@@ -390,13 +390,13 @@ Small-firms, employment, and political economy
 
 Brown, Charles, James Hamilton, and James Medoff. "Images of Large and Small Employers," "The Economic Backdrop," "Generating New Jobs," "Wages: Bigger Means More," "Who Benefits?" and "A Fuller Picture." In _Employers Large and Small_. Cambridge, MA: Harvard University Press, 1990. ISBN: 9780674251625. (Chapters 2-5 optional).
 
-Tendler, Judith. "Small Firms, the Informal Sector, and the Devil's Deal." _IDS Bulletin_ (Institute of Development Studies at Sussex) 33 (July 2002). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.oecd.org/dataoecd/43/41/2489858.pdf))
+Tendler, Judith. "Small Firms, the Informal Sector, and the Devil's Deal." _IDS Bulletin_ (Institute of Development Studies at Sussex) 33 (July 2002). ([PDF](http://www.oecd.org/dataoecd/43/41/2489858.pdf))
 
 Andrews, Edmund. "[Where Do the Jobs Come From?](http://www.nytimes.com/2004/09/21/business/businessspecial/21ANDR.html)" _The New York Times_, September 21, 2004, Section E, p. 1.
 
 ### Recommended
 
-Gibson, Edward. "The Populist Road to Market Reform: Policy and Electoral Coalitions in Mexico and Argentina." _World Politics_ 49 (April 1997): 339-370. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://faculty.wcas.northwestern.edu/~gibson/Edward_L._Gibson/Publications_files/The%20Populist%20Road%20to%20Market%20Reform.pdf))
+Gibson, Edward. "The Populist Road to Market Reform: Policy and Electoral Coalitions in Mexico and Argentina." _World Politics_ 49 (April 1997): 339-370. ([PDF](http://faculty.wcas.northwestern.edu/~gibson/Edward_L._Gibson/Publications_files/The%20Populist%20Road%20to%20Market%20Reform.pdf))
 
 Berger, Suzanne. "The Uses of the Traditional Sector in Italy: Why Declining Classes Survive." In _The Petite Bourgeoisie_. Edited by Frank Bechafer and Brian Elliot. New York, NY: Saint Martin's Press, 1981, pp. 71-89. ISBN: 9780333350720.
 
@@ -462,7 +462,7 @@ Guest Researcher: Salo Coslovsky, Assistant Professor of International Developme
 
 Coslovsky, Salo. "Economic Development Without Pre-requisites: How Bolivian Firms Displaced Brazilian Competitors and Dominated the Global Brazil-Nut Business." New York University, Wagner School, Forthcoming 2010.
 
-Doner, Richard, and Ben Schneider. "Business Associations and Economic Development: Why Some Associations Contribute More than Others." _Business and Politics_ 3 (2000): 261-288. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://econ.tu.ac.th/archan/rangsun/MB%20663/MB%20663%20Readings/%E0%B9%92.%20%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87/Business%20Associations/Business%20Associations%20and%20Economic%20Development.pdf))
+Doner, Richard, and Ben Schneider. "Business Associations and Economic Development: Why Some Associations Contribute More than Others." _Business and Politics_ 3 (2000): 261-288. ([PDF](http://econ.tu.ac.th/archan/rangsun/MB%20663/MB%20663%20Readings/%E0%B9%92.%20%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87/Business%20Associations/Business%20Associations%20and%20Economic%20Development.pdf))
 
 Cammett, Melani. "[Fat Cats and Self-Made Men: Globalization and the Paradoxes of Collective Action](http://www.jstor.org/stable/20072900)." _Comparative Politics_ 37 (July 2005): 379-400.
 
@@ -584,7 +584,7 @@ Samuels, Bob. "[How America's Universities Became Hedge Funds](http://www.huffin
 
 Levinson, Jerome. "Worker Rights and the International Financial Institutions." 2010. (Particular attention to Section IV on page 9 to the end.)
 
-Standing, Guy. "The ILO: An Agency for Globalization?" _Development and Change_ 39, no. 3 (2008): 355-384. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.unhistory.org/pdf/StandingILO.pdf))
+Standing, Guy. "The ILO: An Agency for Globalization?" _Development and Change_ 39, no. 3 (2008): 355-384. ([PDF](http://www.unhistory.org/pdf/StandingILO.pdf))
 
 Elliott, Kimberly, and Richard Freeman. _Can Labor Standards Improve under Globalization_? Washington, DC: Institute for International Economics, 2003. ISBN: 9780881323320.
 
@@ -592,7 +592,7 @@ Elliott, Kimberly, and Richard Freeman. _Can Labor Standards Improve under Globa
 
 Schrank, Andrew. "[Labor Standards and Human Resources: A Natural Experiment in an Unlikely Laboratory](http://www.princeton.edu/~ina/gkg/confs/schrank.pdf)." Paper presented at the annual meeting of the American Sociological Association, Montreal, Canada, August 11, 2006.
 
-Piore, Michael. "Rethinking Mexico's Labor Standards in a Global Economy." Department of Economics, MIT, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://econ-www.mit.edu/files/1112))
+Piore, Michael. "Rethinking Mexico's Labor Standards in a Global Economy." Department of Economics, MIT, 2004. ( [PDF](http://econ-www.mit.edu/files/1112))
 
 
 {{< tdclose >}}
@@ -610,13 +610,13 @@ Foreign direct investment: Domestic outcomes and dilemmas
 
 **Assignment 2 due**
 
-Hanson, Gordon. "Should Countries Promote Foreign Direct Investment?" _G-24 Discussion Paper Series_. UNCTAD (United Nations Conference on Trade and Development), 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://core.ac.uk/download/pdf/7043195.pdf))
+Hanson, Gordon. "Should Countries Promote Foreign Direct Investment?" _G-24 Discussion Paper Series_. UNCTAD (United Nations Conference on Trade and Development), 2001. ([PDF](https://core.ac.uk/download/pdf/7043195.pdf))
 
 Tewari, Meenu. "[Adjustments in India’s Textile and Apparel Industry: Reworking Historical Legacies in a Post-MFA World](https://journals.sagepub.com/doi/pdf/10.1068/a38279)." _Environment and Planning A_ 38, no. 12 (2006): 2325-2344.
 
 ### Recommended
 
-Tendler, Judith. "The Economic Wars Between the States." Working Paper Series, MIT/BNB project (Banco do Nordeste – Northeast Brazilian Development Bank), 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.oecd.org/dataoecd/44/17/2489851.pdf))
+Tendler, Judith. "The Economic Wars Between the States." Working Paper Series, MIT/BNB project (Banco do Nordeste – Northeast Brazilian Development Bank), 2000. ([PDF](http://www.oecd.org/dataoecd/44/17/2489851.pdf))
 
 
 {{< tdclose >}}
