@@ -6,6 +6,7 @@ description: 'Article provided as a suggested reading for the course: Tendler, J
   American Bureau of A.I.D.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/78fbd6c7550a3ec1f2d80b02bb6a52da_MIT11_471S10_Agrarian.pdf
 file_type: application/pdf
+parent_uid: af9579f8-353a-5136-5cc9-ed31dd10e607
 resourcetype: Document
 title: What Happens in an Agrarian Reform
 uid: 78fbd6c7-550a-3ec1-f2d8-0b02bb6a52da
